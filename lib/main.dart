@@ -3,7 +3,6 @@ import 'dart:ffi';
 import 'package:flutter/material.dart';
 
 void main() {
->>>>>>> 1-is-the-first-issues
   var application = Aplication();
   runApp(application);
 }
@@ -27,5 +26,4 @@ class _ApplicationState extends State<Aplication> {
           )),
     );
   }
->>>>>>> 1-is-the-first-issues
 }
